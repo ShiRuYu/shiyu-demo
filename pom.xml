@@ -23,6 +23,7 @@
 
     <modules>
         <module>web-demo</module>
+        <module>db-demo</module>
     </modules>
 
 </project>
